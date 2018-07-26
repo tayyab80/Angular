@@ -76,7 +76,7 @@ export const DISHES: Dish[] = [
             },
             {
                 rating: 2,
-                comment: 'It\'s your birthday, we\'re gonna party!',
+                comment: 'Hello Its Tayyab here',
                 author: '25 Cent',
                 date: '2011-12-02T17:57:28.556094Z'
             }
