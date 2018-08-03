@@ -33,7 +33,7 @@ import { PromotionService } from './services/promotion.service';
 import { MatDialogModule } from '@angular/material/dialog';
 import { AppRoutingModule } from './app-routing/app-routing.module';
 import { LoginComponent } from './login/login.component';
-
+import { MatProgressSpinnerModule } from '@angular/material/progress-spinner';
 
 import { MatFormFieldModule } from '@angular/material/form-field';
 import { MatInputModule } from '@angular/material/input';
@@ -70,6 +70,7 @@ import { ReactiveFormsModule } from '@angular/forms';
     FlexLayoutModule,
     MatFormFieldModule, 
     MatInputModule,
+    MatProgressSpinnerModule,
     MatCheckboxModule,
     MatListModule,
     AppRoutingModule,
